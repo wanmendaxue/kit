@@ -5,7 +5,7 @@ The goal of the gokit cli is to be a tool that you can use while you develop you
 While `gk` did help you create your basic folder structure it was not really able to be used further on in your project.
 This is what `GoKit Cli` is aiming to change.
 
-**This project is a modified version of https://github.com/wanmendaxue/kit**
+**This project is a modified version of https://github.com/kujtimiihoxha/kit**
 
 # Prerequisites 
 GoKit Cli needs to be installed using `go get` and `go install` so `Go` is a requirement to be able to test your services
