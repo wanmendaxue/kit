@@ -1,4 +1,4 @@
-module github.com/kujtimiihoxha/kit
+module github.com/wanmendaxue/kit
 
 go 1.12
 
