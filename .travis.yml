@@ -5,7 +5,7 @@ before_install:
   - go get github.com/modocache/gover
   - go get github.com/Masterminds/glide
 install:
-  - go get
+  - go mod download
 script:
     - go test -race -v ./...
     - chmod +x coveralls.bash
